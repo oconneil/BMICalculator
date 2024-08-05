@@ -1,0 +1,14 @@
+/Users/abodabe/Desktop/Projects/BMICalculator/bin/Debug/net8.0/BMICalculator
+/Users/abodabe/Desktop/Projects/BMICalculator/bin/Debug/net8.0/BMICalculator.deps.json
+/Users/abodabe/Desktop/Projects/BMICalculator/bin/Debug/net8.0/BMICalculator.runtimeconfig.json
+/Users/abodabe/Desktop/Projects/BMICalculator/bin/Debug/net8.0/BMICalculator.dll
+/Users/abodabe/Desktop/Projects/BMICalculator/bin/Debug/net8.0/BMICalculator.pdb
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.AssemblyInfoInputs.cache
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.AssemblyInfo.cs
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.dll
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/refint/BMICalculator.dll
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.pdb
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/BMICalculator.genruntimeconfig.cache
+/Users/abodabe/Desktop/Projects/BMICalculator/obj/Debug/net8.0/ref/BMICalculator.dll
